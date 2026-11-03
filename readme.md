@@ -1,6 +1,5 @@
 # 💻 Course Lab Portfolio
 
-<h1 align="center">Course Lab Portfolio</h1>
 
 <p align="center">
   <strong>Learning • Building • Experimenting • Improving</strong>

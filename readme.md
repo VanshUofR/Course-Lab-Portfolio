@@ -1,7 +1,7 @@
 # 💻 Course Lab Portfolio
 
 <p align="center">
-  <img src="[assets/banner.png](https://www.cyberpunk.net/en/news/45466/night-city-wire-in-a-nutshell)" alt="Software Engineering Laboratory Portfolio Banner" width="100%">
+  <img src="https://www.cyberpunk.net/en/news/45466/night-city-wire-in-a-nutshell" alt="Software Engineering Laboratory Portfolio Banner" width="100%">
 </p>
 
 <h1 align="center">Course Lab Portfolio</h1>

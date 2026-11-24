@@ -1,5 +1,3 @@
-Name: Vansh Nikhilkumar Patel
-SID: 200527738
 Course: ENSE271 - Lab 1
 Grocery Delivery App
 

@@ -3,7 +3,7 @@ SID: 200527738
 Course: ENSE271 - Lab 1
 Grocery Delivery App
 
-I have developed the user story map for Grocery Delivery App by brainstorming ideas of what a delivery app should have for the best user experience. I have focused on adding more features for the application from my customer’s POV.
+I have developed the user story map for Grocery Delivery App by brainstorming ideas of what a delivery app should have for the best user experience. I have focused on adding more features for the application from my customerâ€™s POV.
 The main customer journey starts with discovering groceries, continues through building a cart and checking out, and ends with receiving and tracking the delivery. Account and order management features were also included because they provide useful functionality for returning customers.
 Here are a few decisions I made:
 1. Include four epics: Discover Groceries, Build & Place Order, Delivery, and Account & Order Management.

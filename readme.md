@@ -38,12 +38,12 @@ The purpose of this portfolio is to demonstrate the practical application of cou
 
 ## 📚 Laboratory Collection
 
-[Lab 1](lab1)    |    
-[Lab 2](lab2)    |    
-[Lab 3](lab3)    |    
-[Lab 4](lab4)    |    
-[Lab 5](lab5)    |    
-[Lab 6](lab6)
+[Lab 1](lab1) 
+[Lab 2](lab2) 
+[Lab 3](lab3) 
+[Lab 4](lab4) 
+[Lab 5](lab5) 
+[Lab 6](lab6) 
 
 --------------------------------------------------------------------
 
@@ -74,13 +74,3 @@ Together, these assignments demonstrate the progression of my learning throughou
 Software Systems Engineering Student  
 University of Regina
 ENSE271
-
---------------------------------------------------------------------
-
-<p align="center">
-  <strong>Learning through practice. Building through experimentation.</strong>
-</p>
-
-<p align="center">
-  Made with dedication and curiosity.
-</p>

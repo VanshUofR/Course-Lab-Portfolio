@@ -38,12 +38,12 @@ The purpose of this portfolio is to demonstrate the practical application of cou
 
 ## 📚 Laboratory Collection
 
-Lab 1
-Lab 2
-Lab 3
-Lab 4
-Lab 5
-Lab 6
+[Lab 1](lab1)    |    
+[Lab 2](lab2)    |    
+[Lab 3](lab3)    |    
+[Lab 4](lab4)    |    
+[Lab 5](lab5)    |    
+[Lab 6](lab6)
 
 --------------------------------------------------------------------
 

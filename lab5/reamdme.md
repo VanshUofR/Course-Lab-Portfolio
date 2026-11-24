@@ -1,0 +1,1 @@
+In this lab I have used my wordpress and designing skills to create a persona website of a lady named Alex. I have created 3 pages and 3 posts on thid website and it is running on localhost currently.
